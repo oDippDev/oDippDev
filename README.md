@@ -2,7 +2,7 @@
   <h2>Meu fado é o de não saber quase tudo. Sobre o nada eu tenho profundidades</h2>
   <p>-Manoel de Barros</p>
    <h2>só o conhecimento liberta</h2>
-  <img src="https://res.cloudinary.com/dnhnxaekl/image/upload/v1742568476/hen6qmczffplrsaeos26.svg" height="200"/>
+  <img src="https://res.cloudinary.com/dnhnxaekl/image/upload/v1742568476/hen6qmczffplrsaeos26.svg" height="350"/>
 </div>
 
 ###
